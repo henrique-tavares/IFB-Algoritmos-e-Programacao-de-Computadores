@@ -10,8 +10,8 @@
 
 ## Projetos
 
-- ![AsciiGotchi](https://github.com/henrique-tavares/IFB-Algoritmos-e-Programacao-de-Computadores/tree/main/AsciiGotchi%20(Trabalho%201))
-- ![Gerador_de_mapa_de_campo_minado](https://github.com/henrique-tavares/IFB-Algoritmos-e-Programacao-de-Computadores/tree/main/Campo%20Minado%20(Trabalho%202))
+- [AsciiGotchi](https://github.com/henrique-tavares/IFB-Algoritmos-e-Programacao-de-Computadores/tree/main/AsciiGotchi%20(Trabalho%201))
+- [Gerador_de_mapa_de_campo_minado](https://github.com/henrique-tavares/IFB-Algoritmos-e-Programacao-de-Computadores/tree/main/Campo%20Minado%20(Trabalho%202))
 
 ## Ementa
 
