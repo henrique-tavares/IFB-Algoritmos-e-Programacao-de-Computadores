@@ -2,9 +2,9 @@
 
 # Algoritmos e Programação de Computadores
 
-### **Professor:** João Oliveira
+## 1º Semestre
 
-### 1º Semestre
+### **Professor:** João Oliveira
 
 ---
 
@@ -18,3 +18,9 @@
 Conceito e desenvolvimento de algoritmos. Tipos de dados. Operações de entrada e saída. Estruturas
 fundamentais: sequência, decisão e repetição. Vetores e matrizes. Funções. Implementação de
 algoritmos usando uma linguagem de programação.
+
+## Bibliografia Básica
+
+- ASCENCIO, Ana Fernanda Gomes; CAMPOS, Edilene Aparecida Veneruchi de. Fundamentos da programação de computadores: algoritmos, Pascal e C/C++. São Paulo: Pearson Education, 2004.
+- SCHILDT, Herbert. C completo e total. Tradução de Roberto Carlos Mayer. 3. ed. ver. e atual., São Paulo: Pearson/Makron, 2009.
+- FORBELLONE, André Luiz Villar; EBERSPÄCHER, Henri Frederico. Lógica de programação: a construção de algoritmos e estruturas de dados. 3ª. Edição. São Paulo: Makron, 2005.
