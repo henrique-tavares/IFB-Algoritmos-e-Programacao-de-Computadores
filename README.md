@@ -1,2 +1,20 @@
-# IFB-Algoritmos-e-Programacao-de-Computadores
- Disciplina de Algorítmos e Programação de Computadoes do 1º semestre
+![faculdade-logo](https://doity.com.br/media/doity/eventos/evento-13392-logo_organizador.png)
+
+# Algoritmos e Programação de Computadores
+
+### **Professor:** João Oliveira
+
+### 1º Semestre
+
+---
+
+## Projetos
+
+- ![AsciiGotchi]()
+- ![Gerador_de_mapa_de_campo_minado]()
+
+## Ementa
+
+Conceito e desenvolvimento de algoritmos. Tipos de dados. Operações de entrada e saída. Estruturas
+fundamentais: sequência, decisão e repetição. Vetores e matrizes. Funções. Implementação de
+algoritmos usando uma linguagem de programação.
